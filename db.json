@@ -1,0 +1,116 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "Build and maintain modern React applications with a collaborative development team.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "A technology company building modern web solutions.",
+        "contactEmail": "contact@example.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer",
+      "type": "Full-Time",
+      "description": "Create responsive interfaces and reusable React components for web applications.",
+      "location": "Miami, FL",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "A digital agency focused on user-friendly products.",
+        "contactEmail": "jobs@example.com",
+        "contactPhone": "555-555-5556"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Developer",
+      "type": "Remote",
+      "description": "Work on exciting front-end projects using React, JavaScript and modern tooling.",
+      "location": "Brooklyn, NY",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "A software company delivering cloud-based applications.",
+        "contactEmail": "hello@example.com",
+        "contactPhone": "555-555-5557"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Create engaging user experiences and reusable UI components.",
+      "location": "Phoenix, AZ",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "A startup working on digital products.",
+        "contactEmail": "team@example.com",
+        "contactPhone": "555-555-5558"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Build scalable applications across the front end and back end.",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "A growing technology company creating web applications.",
+        "contactEmail": "careers@example.com",
+        "contactPhone": "555-555-5559"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Develop mobile experiences using React Native and modern JavaScript.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions",
+        "description": "A software company focused on mobile and web solutions.",
+        "contactEmail": "work@example.com",
+        "contactPhone": "555-555-5560"
+      }
+    },
+    {
+      "title": "jdvd",
+      "type": "Part-Time",
+      "location": "ahindjfyh",
+      "description": "ahnjmhiyyeuwh",
+      "salary": "64040",
+      "company": {
+        "name": "a,bfbj fh",
+        "description": "asfkbwugbjs",
+        "contactEmail": "han@gmail.com",
+        "contactPhone": "anjdhy8hwejn"
+      },
+      "id": "1786700410233"
+    },
+    {
+      "title": "Quality Han",
+      "type": "Part-Time",
+      "location": "Mandalay",
+      "description": "I am jenius",
+      "salary": "99000000",
+      "company": {
+        "name": "NEXA",
+        "description": "HI",
+        "contactEmail": "han@gmail.com",
+        "contactPhone": "0998761345"
+      },
+      "id": "1786937120802"
+    }
+  ]
+}
